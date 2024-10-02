@@ -1,0 +1,21 @@
+Transcribed Text: hello hello hello hi I am
+User Feedback: It is not correct
+--------------------------------------------------
+Transcribed Text: I am weapon
+User Feedback: No it was not ok
+--------------------------------------------------
+Transcribed Text: hello check I am shown and I am weapon
+Corrected Text: I am shaun
+--------------------------------------------------
+Transcribed Text: hello
+Corrected Text: Idk
+--------------------------------------------------
+Transcribed Text: hello hello hello check hello check check hello
+Corrected Text: I am vipin
+--------------------------------------------------
+Transcribed Text: welcome to our project
+Corrected Text: welcome to our application
+--------------------------------------------------
+Transcribed Text: let's say what what do you mean
+Corrected Text: let's say what do you mean ?
+--------------------------------------------------
